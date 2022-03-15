@@ -133,7 +133,7 @@ function exibirCartaJogador() {
     var opcoesTexto = "";
 
     for (var atributo in cartaJogador.atributos) {
-        opcoesTexto += "<input type='radio' name='atributo' value='" + atributo + "'>" + atributo + " " + cartaJogador.atributos[atributo] + "<br>";
+        opcoesTexto += "<input type='radio' name='atributo' checked='true' value='" + atributo + "'>" + atributo + " " + cartaJogador.atributos[atributo] + "<br>";
     }
     var nome = `<p class='carta-subtitle'>${cartaJogador.nome}</p>`;
     divCartaJogador.innerHTML = nome + imagemJogador + tagHTML + opcoesTexto + "</div>";
