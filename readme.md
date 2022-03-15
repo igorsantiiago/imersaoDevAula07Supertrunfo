@@ -17,4 +17,4 @@ Desafios
 - Utilizar personagens que você gosta para criar as cartas;
 - Adicionar a imagem do personagem assim que você selecionar a carta dele.
 
-Link do projeto hospedado no GitHub:
+Link do projeto hospedado no GitHub: https://igorsantiiago.github.io/imersaoDevAula07Supertrunfo/
