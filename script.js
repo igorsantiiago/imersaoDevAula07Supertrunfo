@@ -2,10 +2,10 @@ var cartaRafa = {
     nome: "Rafaella Ballerini",
     imagem: "https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj",
     atributos: {
-        Programacao: parseInt(Math.random() * 100),
-        Front: parseInt(Math.random() * 100),
-        Devops: parseInt(Math.random() * 100),
-        Ux:parseInt(Math.random() * 100)        
+        BackEnd: parseInt(Math.random() * 100),
+        FrontEnd: parseInt(Math.random() * 100),
+        DBA: parseInt(Math.random() * 100),
+        UX:parseInt(Math.random() * 100)        
     }
 };
 
@@ -13,10 +13,10 @@ var cartaPaulo = {
     nome: "Paulo Silveira",
     imagem: "https://www.gravatar.com/avatar/c621f1575c6b408ed20d110b86873357.png?r=PG&size=100x100&date=2022-03-15&d=https%3A%2F%2Fcursos.alura.com.br%2Fassets%2Fimages%2Fforum%2Favatar_p.png",
     atributos: {
-        Programacao: parseInt(Math.random() * 100),
-        Front: parseInt(Math.random() * 100),
-        Devops: parseInt(Math.random() * 100),
-        Ux:parseInt(Math.random() * 100)        
+        BackEnd: parseInt(Math.random() * 100),
+        FrontEnd: parseInt(Math.random() * 100),
+        DBA: parseInt(Math.random() * 100),
+        UX:parseInt(Math.random() * 100)        
     }
 };
 
@@ -24,10 +24,10 @@ var cartaDevsoutinho = {
     nome: "Mario Souto",
     imagem: "https://www.gravatar.com/avatar/7c0b1603881b4593063f34a26cd58966.png?r=PG&size=100x100&date=2022-03-15&d=https%3A%2F%2Fcursos.alura.com.br%2Fassets%2Fimages%2Fforum%2Favatar_m.png",
     atributos: {
-        Programacao: parseInt(Math.random() * 100),
-        Front: parseInt(Math.random() * 100),
-        Devops: parseInt(Math.random() * 100),
-        Ux:parseInt(Math.random() * 100)        
+        BackEnd: parseInt(Math.random() * 100),
+        FrontEnd: parseInt(Math.random() * 100),
+        DBA: parseInt(Math.random() * 100),
+        UX:parseInt(Math.random() * 100)        
     }
 };
 
@@ -35,10 +35,10 @@ var cartaAtila = {
     nome: "Atila Iamarino",
     imagem: "https://yt3.ggpht.com/ytc/AKedOLS_h0p3VcxsxIIyCMP7XEL8ImQ3GauYC3KaDBXQ3A=s88-c-k-c0x00ffffff-no-rj",
     atributos: {
-        Programacao: parseInt(Math.random() * 100),
-        Front: parseInt(Math.random() * 100),
-        Devops: parseInt(Math.random() * 100),
-        Ux:parseInt(Math.random() * 100)        
+        BackEnd: parseInt(Math.random() * 100),
+        FrontEnd: parseInt(Math.random() * 100),
+        DBA: parseInt(Math.random() * 100),
+        UX:parseInt(Math.random() * 100)        
     }
 };
 
@@ -46,10 +46,10 @@ var cartaJovemnerd = {
     nome: "Jovem Nerd",
     imagem: "https://yt3.ggpht.com/ytc/AKedOLSQN3SUsEVV7XrEnTJxkRPLVY4hajsObHpczJXu=s88-c-k-c0x00ffffff-no-rj",
     atributos: {
-        Programacao: parseInt(Math.random() * 100),
-        Front: parseInt(Math.random() * 100),
-        Devops: parseInt(Math.random() * 100),
-        Ux:parseInt(Math.random() * 100)        
+        BackEnd: parseInt(Math.random() * 100),
+        FrontEnd: parseInt(Math.random() * 100),
+        DBA: parseInt(Math.random() * 100),
+        UX:parseInt(Math.random() * 100)        
     }
 };
 
@@ -57,10 +57,10 @@ var cartaCodigofonte = {
     nome: "Código Fonte TV",
     imagem: "https://yt3.ggpht.com/ytc/AKedOLTxp_yA1EqeS8rPJDe4m5qExsd3-OKqmlB3M6Oq5A=s88-c-k-c0x00ffffff-no-rj",
     atributos: {
-        Programacao: parseInt(Math.random() * 100),
-        Front: parseInt(Math.random() * 100),
-        Devops: parseInt(Math.random() * 100),
-        Ux:parseInt(Math.random() * 100)        
+        BackEnd: parseInt(Math.random() * 100),
+        FrontEnd: parseInt(Math.random() * 100),
+        DBA: parseInt(Math.random() * 100),
+        UX:parseInt(Math.random() * 100)        
     }
 };
 
@@ -68,10 +68,10 @@ var cartaMarcobruno = {
     nome: "Marco Bruno",
     imagem: "https://www.alura.com.br/assets/img/aluraverso/MarcoBruno.jpg",
     atributos: {
-        Programacao: parseInt(Math.random() * 100),
-        Front: parseInt(Math.random() * 100),
-        Devops: parseInt(Math.random() * 100),
-        Ux:parseInt(Math.random() * 100)        
+        BackEnd: parseInt(Math.random() * 100),
+        FrontEnd: parseInt(Math.random() * 100),
+        DBA: parseInt(Math.random() * 100),
+        UX:parseInt(Math.random() * 100)        
     }
 };
 
