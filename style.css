@@ -82,6 +82,12 @@ h2 {
     border-radius: 40px;
     width: 20vw;
     height: 50vh;
+    transition: .5s ease-in;
+}
+
+.carta-background:hover {
+    margin: -10px;
+    zoom:105%;
 }
 
 .carta-jogador, .carta-maquina {
