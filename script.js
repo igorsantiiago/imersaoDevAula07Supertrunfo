@@ -11,7 +11,7 @@ var cartaRafa = {
 
 var cartaPaulo = {
     nome: "Paulo Silveira",
-    imagem: "https://www.gravatar.com/avatar/c621f1575c6b408ed20d110b86873357.png?r=PG&size=100x100&date=2022-03-15&d=https%3A%2F%2Fcursos.alura.com.br%2Fassets%2Fimages%2Fforum%2Favatar_p.png",
+    imagem: "https://media-exp1.licdn.com/dms/image/C4D03AQHNUGchMAa-Yw/profile-displayphoto-shrink_200_200/0/1556583729599?e=1652918400&v=beta&t=wzyKPuXvmMrR5nHGU6PpmGsvCslHh4W4qv3jaasyZI8",
     atributos: {
         BackEnd: parseInt(Math.random() * 100),
         FrontEnd: parseInt(Math.random() * 100),
@@ -22,7 +22,7 @@ var cartaPaulo = {
 
 var cartaDevsoutinho = {
     nome: "Mario Souto",
-    imagem: "https://www.gravatar.com/avatar/7c0b1603881b4593063f34a26cd58966.png?r=PG&size=100x100&date=2022-03-15&d=https%3A%2F%2Fcursos.alura.com.br%2Fassets%2Fimages%2Fforum%2Favatar_m.png",
+    imagem: "https://yt3.ggpht.com/ytc/AKedOLS-CKuhUh_SbSYPf5TCugjWE-6ok7chbNm-daC4=s88-c-k-c0x00ffffff-no-rj",
     atributos: {
         BackEnd: parseInt(Math.random() * 100),
         FrontEnd: parseInt(Math.random() * 100),
